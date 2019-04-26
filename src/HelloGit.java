@@ -6,5 +6,6 @@
 public class HelloGit {
     public static void main(String[] args) {
         System.out.println("测试git在idea中的使用");
+        System.out.println("git 拉取项目最新代码...");
     }
 }
